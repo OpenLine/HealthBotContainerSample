@@ -2,7 +2,7 @@ html, body {
   height: 100%;
 }
 body {
-  margin: 0;
+  margin: 20;
 }
 
 #webchat {
@@ -30,4 +30,12 @@ body {
   left: 50%;
   right: unset;
   transform: translate(-50%, 0);
+}
+
+
+.imglogo {
+  width: 300px;
+  position: absolute;
+  top: 5;
+  left: 5;
 }
